@@ -13,9 +13,9 @@ Facebook borrows terms from mathematical graph theory to describe features of it
 
 The easiest way to experiment with Facebook Graph API calls in action is to use the Graph API Explorer, available at:
 
-https://developers.facebook.com/tools/explorer/
+**https://developers.facebook.com/tools/explorer/**
 
-You can issue RESTful API queries using the HTTP GET. POST, and DELETE commands that are available from the **Graph API drop-down menu**.
+You can issue RESTful API queries using the HTTP GET, POST, and DELETE commands that are available from the **Graph API drop-down menu**.
 
 Queries you enter from the keyboard, or by selecting options provided by the Graph API Explorer interface, are displayed in the **Query field**.
 
@@ -23,7 +23,7 @@ Data returned from your query, or an associated error message, is displayed in t
 
 ![Facebook Graph API Explorer ](http://jkrick.com/markdown_image/graph_get_999.png)
 
-Before you can issue a query, you will need to obtain an access token.
+Before you can issue a query, you must obtain an access token.
 
 1. Click the **Get Token** button in the upper right corner of the Graph API Explorer interface.
 2. Select **Get Access Token**.
@@ -51,13 +51,12 @@ Before you can issue a query, you will need to obtain an access token.
 You can construct a query using Graph API Explorer's Query builder bar.
 
 1. Search for a field name by entering text in the **Search** field, or add a field by selecting it from the drop-down list.
-
 2. Click **Submit**.
 
 ![Facebook Graph API Explorer ](http://jkrick.com/markdown_image/graph_get_98.png)
 
 <ol start="3">
-<li>Note that the query returns only those fields that are selected in the Query builder bar.
+<li>Note that the query returns only those fields that are selected in the Query builder bar.</li>
 </ol>
 
 ![Facebook Graph API Explorer ](http://jkrick.com/markdown_image/graph_get_33.png)
